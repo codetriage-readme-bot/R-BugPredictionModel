@@ -1,0 +1,5 @@
+"1","bugs~numberOfBugsFoundUntil.+linesAddedUntil.+wmc","0.433441406001205","0.480422280774051","eclipse"
+"1","bugs~numberOfBugsFoundUntil.+numberOfVersionsUntil.+cbo","0.633357958347055","0.560866053108406","equinox"
+"1","bugs~numberOfBugsFoundUntil.+maxCodeChurnUntil.+numberOfAttributes","0.175171073065931","0.407836262846432","lucene"
+"1","bugs~numberOfMajorBugsFoundUntil.+linesAddedUntil.+numberOfPrivateMethods","0.278332106868111","0.318968082799269","mylyn"
+"1","bugs~numberOfNonTrivialBugsFoundUntil.+linesAddedUntil.+rfc","0.331037226571979","0.301348729841672","pde"

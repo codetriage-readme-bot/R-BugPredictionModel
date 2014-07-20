@@ -1,0 +1,5 @@
+"1","bugs~numberOfBugsFoundUntil.+numberOfNonTrivialBugsFoundUntil.+linesAddedUntil.+numberOfVersionsUntil.+wmc+numberOfLinesOfCode","1.87197178117613","0.421693492504486","eclipse"
+"1","bugs~numberOfBugsFoundUntil.+numberOfNonTrivialBugsFoundUntil.+numberOfVersionsUntil.+linesAddedUntil.+cbo+lcom","1.48853068204429","0.596968673245642","equinox"
+"1","bugs~numberOfBugsFoundUntil.+numberOfNonTrivialBugsFoundUntil.+maxCodeChurnUntil.+linesAddedUntil.+numberOfAttributes+cbo","2.70690947362293","0.269919363584206","lucene"
+"1","bugs~numberOfMajorBugsFoundUntil.+numberOfNonTrivialBugsFoundUntil.+linesAddedUntil.+maxLinesAddedUntil.+numberOfPrivateMethods+fanOut","2.18320793568306","0.268311452074653","mylyn"
+"1","bugs~numberOfNonTrivialBugsFoundUntil.+numberOfBugsFoundUntil.+linesAddedUntil.+numberOfVersionsUntil.+rfc+numberOfLinesOfCode","2.14487825978676","0.304448072780758","pde"

@@ -1,0 +1,6 @@
+nBFU	numberOfBugsFoundUntil.
+nnTBFU	numberOfNonTrivialBugsFoundUntil.
+lAU	linesAddedUntil.
+nVU	numberOfVersionsUntil.
+noLC	noOfLinesOfCode
+noVU	no.OfVersUntil.
